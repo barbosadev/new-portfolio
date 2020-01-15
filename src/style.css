@@ -1,18 +1,14 @@
 *{
     text-align: center;
 }
-
+#root{
+  width: 100%;
+}
 html,
 body {
   height: 100%;
 }
-
 body {
   display: -ms-flexbox;
   display: flex;
 }
-
-
-.cover-container {
-    max-width: 42em;
-  }
