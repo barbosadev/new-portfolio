@@ -3,6 +3,7 @@
 }
 #root{
   width: 100%;
+  background-color:rgba(0,0,0,.75);
 }
 html,
 body {
@@ -11,4 +12,12 @@ body {
 body {
   display: -ms-flexbox;
   display: flex;
+  background: url('./images/1.jpg') center no-repeat;
+  background-size: cover;
+}
+.cover-container{
+  max-width: 42em;
+}
+.perfil{
+  max-width: 10px;
 }
